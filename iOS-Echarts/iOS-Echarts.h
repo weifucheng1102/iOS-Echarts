@@ -8,8 +8,7 @@
 
 #import "PYUtilities.h"
 
-#import "PYEchartsView.h"
-#import "PYZoomEchartsView.h"
+
 #import "WKEchartsView.h"
 
 #import "PYOption.h"
